@@ -1,0 +1,4 @@
+"idFlight";"flightname";"source";"destination";"date";"cost";"arrivalTime";"departureTime";"seatsType"
+"FN003";"Rushi";"India";"China";"2022-11-27";"1000";"2.30";"4.30";"Business Class"
+"FN004";"Suraj";"India";"Germany";"2022-11-01";"2000";"12";"1";"Business Class"
+"FN005";"AK";"Germany";"India";"2022-11-30";"99";"8.30";"10";"Economy Class"
